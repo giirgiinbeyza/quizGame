@@ -1,17 +1,11 @@
 # quizGame
  <p> Oyun Adı: 1 FLAG 1 NUMBER </p>
 <p>Bu oyun, satın alma işletmelerinin insan kaynakları bölümleri tarafından, aday havuzundaki adayları değerlendirmek amacıyla geliştirilmiştir. Oyun, adayların hafıza, hesaplama ve dikkat becerilerini ölçmek için tasarlanmıştır ve üç ana sahneden oluşmaktadır: </p>                                                                                                                                                                                                            
-*Menü Sahnesi
-*Bayrak Eşleştirme Sahnesi
-*Quiz Sahnesi
-Oyun Akışı
-1. Menü Sahnesi
-Oyun, kullanıcıyı karşılama ve oyuna başlama seçeneklerini sunan bir menü ile başlar. Menüdeki seçenekler şunlardır:
-![Ekran Görüntüsü (288)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/ca9c693d-6577-4695-aacc-c58b2478a14a)
-
-Oyuna Başla
-Ayarlar
-Çıkış
+1 FLAG 1 NUMBER
+Oyunun Amacı
+Bu oyun, satın alma işletmelerinin insan kaynakları bölümleri tarafından, aday havuzundaki adayları değerlendirmek amacıyla geliştirilmiştir. Oyun, adayların hafıza, hesaplama ve dikkat becerilerini ölçmek için tasarlanmıştır ve üç ana sahneden oluşmaktadır. Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri Final ödevidir.
+Oyunumuz menü dahil olmak üzere 3 kısımdan oluşuyor. Giriş menüsünden sonra karşınıza bayrak ve sayı eşleştirme kısımı çıkıyor. İstediğiniz bayrağı istediğiniz sayıya atayarak hafıza yetinizi kullanarak 3. adımda
+quiz kısmında karşınıza çıkan işlemleri yapmanız isteniyor.
 
 
 

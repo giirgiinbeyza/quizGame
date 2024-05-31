@@ -6,7 +6,7 @@
 *Quiz Sahnesi
 Oyun Akışı
 1. Menü Sahnesi
-<p>Oyun, kullanıcıyı karşılama ve oyuna başlama seçeneklerini sunan bir menü ile başlar. Menüdeki seçenekler şunlardır: </p>
+Oyun, kullanıcıyı karşılama ve oyuna başlama seçeneklerini sunan bir menü ile başlar. Menüdeki seçenekler şunlardır:
 ![Ekran Görüntüsü (288)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/ca9c693d-6577-4695-aacc-c58b2478a14a)
 
 Oyuna Başla

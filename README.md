@@ -10,7 +10,8 @@ Oyun, kullanıcıyı karşılama ve oyuna başlama seçeneklerini sunan bir men�
 Oyuna Başla
 Ayarlar
 Çıkış
-![Ekran Görüntüsü (280)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/d18632e4-812e-4448-81b2-56b67ec9b735)
+![Ekran Görüntüsü (280)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/b283e1f3-084f-4143-b96c-c9529e49e565)
+
 
 2. Bayrak Eşleştirme Sahnesi
 Bu sahnede, kullanıcıya çeşitli ülke bayrakları gösterilir ve her bayrağı belirli bir sayı ile eşleştirmesi istenir. Kullanıcı, bayrağı atanmış sayıya göre aklında tutarak hafıza becerilerini test eder. Bu aşamada, kullanıcıların görsel hafızaları değerlendirilir.

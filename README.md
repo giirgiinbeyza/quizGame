@@ -3,9 +3,9 @@
 <p>Bu oyun, satın alma işletmelerinin insan kaynakları bölümleri tarafından, aday havuzundaki adayları değerlendirmek amacıyla geliştirilmiştir. Oyun, adayların hafıza, hesaplama ve dikkat becerilerini ölçmek için tasarlanmıştır ve üç ana sahneden oluşmaktadır: </p>                                                                                                                                                                                                            
 1 FLAG 1 NUMBER
 Oyunun Amacı
-Bu oyun, satın alma işletmelerinin insan kaynakları bölümleri tarafından, aday havuzundaki adayları değerlendirmek amacıyla geliştirilmiştir. Oyun, adayların hafıza, hesaplama ve dikkat becerilerini ölçmek için tasarlanmıştır ve üç ana sahneden oluşmaktadır. Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri Final ödevidir.
+<p>Bu oyun, satın alma işletmelerinin insan kaynakları bölümleri tarafından, aday havuzundaki adayları değerlendirmek amacıyla geliştirilmiştir. Oyun, adayların hafıza, hesaplama ve dikkat becerilerini ölçmek için tasarlanmıştır ve üç ana sahneden oluşmaktadır. Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri Final ödevidir.
 Oyunumuz menü dahil olmak üzere 3 kısımdan oluşuyor. Giriş menüsünden sonra karşınıza bayrak ve sayı eşleştirme kısımı çıkıyor. İstediğiniz bayrağı istediğiniz sayıya atayarak hafıza yetinizi kullanarak 3. adımda
-quiz kısmında karşınıza çıkan işlemleri yapmanız isteniyor.
+quiz kısmında karşınıza çıkan işlemleri yapmanız isteniyor.</p>
 
 
 

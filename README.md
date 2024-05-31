@@ -7,7 +7,8 @@
 Oyun Akışı
 1. Menü Sahnesi
 <p>Oyun, kullanıcıyı karşılama ve oyuna başlama seçeneklerini sunan bir menü ile başlar. Menüdeki seçenekler şunlardır: </p>
-![Ekran Görüntüsü (280)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/8f7db029-c982-4989-9c42-60549586cc64)
+![Ekran Görüntüsü (288)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/ca9c693d-6577-4695-aacc-c58b2478a14a)
+
 Oyuna Başla
 Ayarlar
 Çıkış

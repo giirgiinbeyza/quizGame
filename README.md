@@ -10,7 +10,8 @@ Oyun, kullanıcıyı karşılama ve oyuna başlama seçeneklerini sunan bir men�
 Oyuna Başla
 Ayarlar
 Çıkış
-![Ekran Görüntüsü (280)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/b283e1f3-084f-4143-b96c-c9529e49e565)
+![Ekran Görüntüsü (280)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/db5b881b-e7bc-4001-beb5-35eef2254e6f)
+
 
 
 2. Bayrak Eşleştirme Sahnesi

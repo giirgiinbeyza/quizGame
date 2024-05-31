@@ -1,5 +1,5 @@
 # quizGame
- Oyun Adı: İşe Alım İçin Bayrak Eşleştirme ve Quiz Oyunu
+ <p> Oyun Adı: 1 FLAG 1 NUMBER </p>
 Açıklama
 Bu oyun, satın alma işletmelerinin insan kaynakları bölümleri tarafından, aday havuzundaki adayları değerlendirmek amacıyla geliştirilmiştir. Oyun, adayların hafıza, hesaplama ve dikkat becerilerini ölçmek için tasarlanmıştır ve üç ana sahneden oluşmaktadır:
 

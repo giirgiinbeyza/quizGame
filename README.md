@@ -4,6 +4,9 @@
 <p>Bu oyun, satın alma işletmelerinin insan kaynakları bölümleri tarafından, aday havuzundaki adayları değerlendirmek amacıyla geliştirilmiştir. Oyun, adayların hafıza, hesaplama ve dikkat becerilerini ölçmek için tasarlanmıştır ve üç ana sahneden oluşmaktadır.</p>
 <p>Oyunumuz menü dahil olmak üzere 3 kısımdan oluşuyor. Giriş menüsünden sonra karşınıza bayrak ve sayı eşleştirme kısımı çıkıyor. İstediğiniz bayrağı istediğiniz sayıya atayarak ve hafıza yetinizi kullanarak 3. adımda karşınıza çıkan işlemleri yapmanız isteniyor. Quiz kısmındaysa atadığınız bayrağı atadağınız sayıya göre verilen matematik işlemleri yapmanız isteniyor. Bu kısımda matematik işlemleriyle hesaplama yeteneği ölçülürken, işlem önceliklerine göre de dikkatiniz ölçülmektedir.</p> 
 
+# Oynanış Videosu İçin 
+https://www.youtube.com/watch?v=TQmMKBABydU
+
  # 1.Menü Sahnesi
 Play tuşundan oyun başlatılırken exitten çıkış yapılır.
 ![Ekran Görüntüsü (280)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/1fad4c81-4952-4c05-a65f-251ebd578788)

@@ -7,7 +7,7 @@
                                                                                                                                                                     
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-# 1.Menü Sahnesi
+# 2. Menü Sahnesi
 ![Ekran Görüntüsü (280)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/1fad4c81-4952-4c05-a65f-251ebd578788)
 
 

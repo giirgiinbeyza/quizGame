@@ -17,7 +17,8 @@ Bu sahnede, kullanıcıya çeşitli ülke bayrakları gösterilir ve her bayrağ
 Bu sahnede, kullanıcıya çeşitli matematik işlemleri sunulur ve bu işlemleri çözmesi istenir. Quiz soruları, adayın hesaplama ve dikkat becerilerini ölçmek amacıyla tasarlanmıştır. Doğru ve hızlı yanıtlar, adayın bu becerilerini değerlendirmede önemli rol oynar.
 ![Ekran Görüntüsü (282)](https://github.com/giirgiinbeyza/quizGame/assets/148092379/1234a509-9ddb-4b21-8654-9f4b2af0213e)
 
-# Puanlama: Her doğru cevap için 10 puan kazanılırken her yanlış cevap için 10 puan kaydedilir. 40 puana ulaşan aday, aday havuzundan ayrılıyor.
+# Puanlama: 
+Her doğru cevap için 10 puan kazanılırken her yanlış cevap için 10 puan kaydedilir. 40 puana ulaşan aday, aday havuzundan ayrılıyor.
 
 Kurulum ve Çalıştırma
 Gereksinimler:

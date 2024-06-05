@@ -1,5 +1,5 @@
 # quizGame
- <p> Oyun Adı: 1 FLAG 1 NUMBER </p>
+ <p> ## 1 FLAG 1 NUMBER </p>
  
 <p>Bu oyun, satın alma işletmelerinin insan kaynakları bölümleri tarafından, aday havuzundaki adayları değerlendirmek amacıyla geliştirilmiştir. Oyun, adayların hafıza, hesaplama ve dikkat becerilerini ölçmek için tasarlanmıştır ve üç ana sahneden oluşmaktadır.</p>
 <p>Oyunumuz menü dahil olmak üzere 3 kısımdan oluşuyor. Giriş menüsünden sonra karşınıza bayrak ve sayı eşleştirme kısımı çıkıyor. İstediğiniz bayrağı istediğiniz sayıya atayarak ve hafıza yetinizi kullanarak 3. adımda karşınıza çıkan işlemleri yapmanız isteniyor. Quiz kısmındaysa atadığınız bayrağı atadağınız sayıya göre verilen matematik işlemleri yapmanız isteniyor. Bu kısımda matematik işlemleriyle hesaplama yeteneği ölçülürken, işlem önceliklerine göre de dikkatiniz ölçülmektedir. </p>
